@@ -1,9 +1,10 @@
 TEst test
 ----
-
+![Cointegration - Statistical Arbritrage](img/cointegration.png)
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDMwODA2MTIsLTM2ODE4NDEyOF19
+eyJoaXN0b3J5IjpbNDU4NDYyOTcyLC0xMDAzMDgwNjEyLC0zNj
+gxODQxMjhdfQ==
 -->
