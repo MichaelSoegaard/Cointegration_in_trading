@@ -1,6 +1,10 @@
 ----
 ![Cointegration - Statistical Arbritrage](img/Cointegration.png)
-
+```xml
+<p align="center">
+  <img src="http://some_place.com/image.png" />
+</p>
+```
 
 Cointegration spread trading is a statistical arbitrage strategy for trading financial assets. You basicially trade two cointegrated assets, that is two assets that have the same price fluctuations and long term movement. 
 ![Graphs](img/Github_graphs.jpg)
@@ -9,9 +13,9 @@ Practically you buy one af the assets and sell the other, This way you can remov
 Read more about the process in notebook
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjcxNzc2NTUsMTc3MTkwMzA4MSwyMD
-AzODY4NjUzLDEyOTE5NzMwMiwxODU1NjQ5ODk3LDEzMzk1NTcx
-NzMsMTk2NzkyNzU1NCwxMTMzNTkwNzgyLC0xNDMzNzk4MDcxLC
-0xMzEzNDM4MTYyLDQ1ODQ2Mjk3MiwtMTAwMzA4MDYxMiwtMzY4
-MTg0MTI4XX0=
+eyJoaXN0b3J5IjpbMTY0NjIyMDIxMSwxNzcxOTAzMDgxLDIwMD
+M4Njg2NTMsMTI5MTk3MzAyLDE4NTU2NDk4OTcsMTMzOTU1NzE3
+MywxOTY3OTI3NTU0LDExMzM1OTA3ODIsLTE0MzM3OTgwNzEsLT
+EzMTM0MzgxNjIsNDU4NDYyOTcyLC0xMDAzMDgwNjEyLC0zNjgx
+ODQxMjhdfQ==
 -->
