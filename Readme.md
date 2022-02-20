@@ -10,7 +10,7 @@ Practically you buy one af the assets and sell the other, This way you can remov
 Read more about the process in notebook
 
 Quantconnetc code and backtestreport:
-<script src='https://www.quantconnect.com/terminal/backtest.js?sid=1c93e92fbb296bfd7b1d2110077f9550'></script>
+https://www.quantconnect.com/terminal/processCache?request=embedded_backtest_1c93e92fbb296bfd7b1d2110077f9550.html
 
 *Note: There seems to be some differences between the optimal paramters calculated and the optimal parameters for backtest. This is an issue I'm pursueing at the moment. Project will be opdated with my findings.*
 
