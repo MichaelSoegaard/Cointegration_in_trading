@@ -15,9 +15,9 @@ https://www.quantconnect.com/terminal/processCache?request=embedded_backtest_1c9
 *Note: There seems to be some differences between the optimal paramters calculated and the optimal parameters for backtest. This is an issue I'm pursueing at the moment. Project will be opdated with my findings.*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0Mjg0MzIxOCwxNzcxOTAzMDgxLDIwMD
-M4Njg2NTMsMTI5MTk3MzAyLDE4NTU2NDk4OTcsMTMzOTU1NzE3
-MywxOTY3OTI3NTU0LDExMzM1OTA3ODIsLTE0MzM3OTgwNzEsLT
-EzMTM0MzgxNjIsNDU4NDYyOTcyLC0xMDAzMDgwNjEyLC0zNjgx
-ODQxMjhdfQ==
+eyJoaXN0b3J5IjpbNTI2NTk5NDU0LC01NDI4NDMyMTgsMTc3MT
+kwMzA4MSwyMDAzODY4NjUzLDEyOTE5NzMwMiwxODU1NjQ5ODk3
+LDEzMzk1NTcxNzMsMTk2NzkyNzU1NCwxMTMzNTkwNzgyLC0xND
+MzNzk4MDcxLC0xMzEzNDM4MTYyLDQ1ODQ2Mjk3MiwtMTAwMzA4
+MDYxMiwtMzY4MTg0MTI4XX0=
 -->
