@@ -3,7 +3,6 @@
   <img src="img/Cointegration.png" />
 </p>
 
-<span style="color:red">Note! Repository is being updated at the moment</span>
 
 #### Introduction
 Cointegration spread trading is a statistical arbitrage strategy for trading financial assets. You basicially trade two cointegrated assets, that is two assets that have the same price fluctuations and long term movement. But when they once in a while move apart from each they tend to revert back to the mean at some point. It's that knowledge you can use to your advantage.
@@ -23,6 +22,7 @@ When running a second backtest (on the second testset from 2021). I got a profit
 #### Challenges faced
 In the first attempts to find the optimal entry and exit thresholds there was a problem with the thresholds being overfittet to the training dataset. Becasue as I testet the thresholds on our first testset (2020) the results were horrible. I investigated it and it turned out that the training set didn't fully reflect the parameters of the population. The original trainingset was on hourly data from 2016 to 2019 and it showed the best results with a windowsize of only 20. When I expanded the trainingset to hourly from 2010 to 2019 I got a windowsize of 150. The reason for not including data from 2010 in the first dataset is because, when you deal with financial assets they change over time. So if you want to predict future pricemovements you want your model to put it's emphasis on the latest data and preferably remove older data as it might skew you model.
 
+---
 ![Thresholds](img/Profits.png)
 *Models with all the different parameters of windowsize, entry and exit thresholds are run and visualized*
 
@@ -31,20 +31,22 @@ In the first attempts to find the optimal entry and exit thresholds there was a 
 ![Trades](img/trades.png)
 *Visualization of two months with trades based on the optimal parameters*
 
-The notebook has a lot of comments to let you understnad the code and my process.
-
+---
+The notebook has a lot of comments to further elaborate on the code and my process.
 
 #### Backtest and production
-Although I didn't put this model into production, ie. let it trade on the markets, it would be possible with the code I used to backtest it. You can wast the backtestreport, visualizations an code in the link below.
+Although I didn't put this model into production, ie. let it trade on the markets, it would be possible with the code I used to backtest it. You can wast the backtestreport, visualizations an code in the link below.</br>
+*Note: Switch between charts, report and code in the upper left corner at Quantconnect.*
+
 Quantconnetc code and backtestreport:</br>
 https://www.quantconnect.com/terminal/processCache?request=embedded_backtest_905cedf89d97241c80b91e4301658356.html
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTE4NDkxMzcsNTU3Njc0NDAwLDE0NT
-Y1Mzg1NDYsLTE0OTk1MjUyNzcsNTI2NTk5NDU0LC01NDI4NDMy
-MTgsMTc3MTkwMzA4MSwyMDAzODY4NjUzLDEyOTE5NzMwMiwxOD
-U1NjQ5ODk3LDEzMzk1NTcxNzMsMTk2NzkyNzU1NCwxMTMzNTkw
-NzgyLC0xNDMzNzk4MDcxLC0xMzEzNDM4MTYyLDQ1ODQ2Mjk3Mi
-wtMTAwMzA4MDYxMiwtMzY4MTg0MTI4XX0=
+eyJoaXN0b3J5IjpbMzY3ODcxNjAxLC0xNTExODQ5MTM3LDU1Nz
+Y3NDQwMCwxNDU2NTM4NTQ2LC0xNDk5NTI1Mjc3LDUyNjU5OTQ1
+NCwtNTQyODQzMjE4LDE3NzE5MDMwODEsMjAwMzg2ODY1MywxMj
+kxOTczMDIsMTg1NTY0OTg5NywxMzM5NTU3MTczLDE5Njc5Mjc1
+NTQsMTEzMzU5MDc4MiwtMTQzMzc5ODA3MSwtMTMxMzQzODE2Mi
+w0NTg0NjI5NzIsLTEwMDMwODA2MTIsLTM2ODE4NDEyOF19
 -->
