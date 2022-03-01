@@ -35,7 +35,7 @@ In the first attempts to find the optimal entry and exit thresholds there was a 
 The notebook has a lot of comments to further elaborate on the code and my process.
 
 #### Backtest and production
-Although I didn't put this model into production, ie. let it trade on the markets, it would be possible with the code I used to backtest it. You can wast the backtestreport, visualizations an code in the link below.
+Although I didn't put this model into production, ie. let it trade on the markets, it would be possible with the code I used to backtest it. You can wast the backtestreport, visualizations an code in the link below.</br>
 *Note: Switch between charts, report and code in the upper left corner at Quantconnect.*
 
 Quantconnetc code and backtestreport:</br>
@@ -43,7 +43,7 @@ https://www.quantconnect.com/terminal/processCache?request=embedded_backtest_905
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc1OTExNDQyLC0xNTExODQ5MTM3LDU1Nz
+eyJoaXN0b3J5IjpbMzY3ODcxNjAxLC0xNTExODQ5MTM3LDU1Nz
 Y3NDQwMCwxNDU2NTM4NTQ2LC0xNDk5NTI1Mjc3LDUyNjU5OTQ1
 NCwtNTQyODQzMjE4LDE3NzE5MDMwODEsMjAwMzg2ODY1MywxMj
 kxOTczMDIsMTg1NTY0OTg5NywxMzM5NTU3MTczLDE5Njc5Mjc1
