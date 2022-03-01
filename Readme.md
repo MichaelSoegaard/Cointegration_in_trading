@@ -14,7 +14,7 @@ I want to investigate if using a mean-reverting strategy using cointegration can
 So far it hasn't been possible to get much edge in this strategy. That is, the different factors like Sharpe ratio and profit hasn't bee significant enough to prove that we can derive any useful information or edge in this strategy. There is however room for more investigation as it migt be possible to improve the strategy.
 
 #### Next steps
-In the first attempts to find the optimal thre
+In the first attempts to find the optimal entry and exit thresholds there was a problem with the thresholds being overfittet to the training dataset. Becasue as I testet the thresholds on our first testset (2020) the re 
 
 ![Graphs](img/Github_graphs.jpg)
 
@@ -26,9 +26,9 @@ https://www.quantconnect.com/terminal/processCache?request=embedded_backtest_1c9
 *Note: There seems to be some differences between the optimal paramters calculated and the optimal parameters for backtest. This is an issue I'm pursueing at the moment. Project will be opdated with my findings.*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDgwODMzNDA4LDUyNjU5OTQ1NCwtNTQyOD
-QzMjE4LDE3NzE5MDMwODEsMjAwMzg2ODY1MywxMjkxOTczMDIs
-MTg1NTY0OTg5NywxMzM5NTU3MTczLDE5Njc5Mjc1NTQsMTEzMz
-U5MDc4MiwtMTQzMzc5ODA3MSwtMTMxMzQzODE2Miw0NTg0NjI5
-NzIsLTEwMDMwODA2MTIsLTM2ODE4NDEyOF19
+eyJoaXN0b3J5IjpbLTY4MDQ3OTk4Niw1MjY1OTk0NTQsLTU0Mj
+g0MzIxOCwxNzcxOTAzMDgxLDIwMDM4Njg2NTMsMTI5MTk3MzAy
+LDE4NTU2NDk4OTcsMTMzOTU1NzE3MywxOTY3OTI3NTU0LDExMz
+M1OTA3ODIsLTE0MzM3OTgwNzEsLTEzMTM0MzgxNjIsNDU4NDYy
+OTcyLC0xMDAzMDgwNjEyLC0zNjgxODQxMjhdfQ==
 -->
