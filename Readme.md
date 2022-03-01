@@ -3,7 +3,6 @@
   <img src="img/Cointegration.png" />
 </p>
 
-<span style="color:red">Note! Repository is being updated at the moment</span>
 
 #### Introduction
 Cointegration spread trading is a statistical arbitrage strategy for trading financial assets. You basicially trade two cointegrated assets, that is two assets that have the same price fluctuations and long term movement. But when they once in a while move apart from each they tend to revert back to the mean at some point. It's that knowledge you can use to your advantage.
@@ -33,7 +32,7 @@ In the first attempts to find the optimal entry and exit thresholds there was a 
 *Visualization of two months with trades based on the optimal parameters*
 
 ---
-The notebook has a lot of comments to let you understnad the code and my process.
+The notebook has a lot of comments to further elaborate on the code and my process.
 
 #### Backtest and production
 Although I didn't put this model into production, ie. let it trade on the markets, it would be possible with the code I used to backtest it. You can wast the backtestreport, visualizations an code in the link below.
@@ -42,7 +41,7 @@ https://www.quantconnect.com/terminal/processCache?request=embedded_backtest_905
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzODg3Njg3NywtMTUxMTg0OTEzNyw1NT
+eyJoaXN0b3J5IjpbMTc4Njg0MjE2NSwtMTUxMTg0OTEzNyw1NT
 c2NzQ0MDAsMTQ1NjUzODU0NiwtMTQ5OTUyNTI3Nyw1MjY1OTk0
 NTQsLTU0Mjg0MzIxOCwxNzcxOTAzMDgxLDIwMDM4Njg2NTMsMT
 I5MTk3MzAyLDE4NTU2NDk4OTcsMTMzOTU1NzE3MywxOTY3OTI3
