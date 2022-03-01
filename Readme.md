@@ -2,9 +2,9 @@
 <p align="center">
   <img src="img/Cointegration.png" />
 </p>
-Cointegration spread trading is a statistical arbitrage strategy for trading financial assets. You basicially trade two cointegrated assets, that is two assets that have the same price fluctuations and long term movement. 
+Cointegration spread trading is a statistical arbitrage strategy for trading financial assets. You basicially trade two cointegrated assets, that is two assets that have the same price fluctuations and long term movement. In the past it was possible to use mean-reverting strategies to trade assets and you could be profitable. But as with most all trading strategies, as they are used by more and more people they loose their edge and stops being profitable.
 #### Goal
-I want to investigate if using a mean-reverting strategy using cointegration can give any information about price movements in the traded assets. In the past it was possible to use mean-reverting strategies to trade assets and you could be profitable. 
+I want to investigate if using a mean-reverting strategy using cointegration can give any information about price movements in the traded assets. 
 
 ####
 
@@ -19,9 +19,9 @@ https://www.quantconnect.com/terminal/processCache?request=embedded_backtest_1c9
 *Note: There seems to be some differences between the optimal paramters calculated and the optimal parameters for backtest. This is an issue I'm pursueing at the moment. Project will be opdated with my findings.*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTYyMTI3NSw1MjY1OTk0NTQsLTU0Mj
-g0MzIxOCwxNzcxOTAzMDgxLDIwMDM4Njg2NTMsMTI5MTk3MzAy
-LDE4NTU2NDk4OTcsMTMzOTU1NzE3MywxOTY3OTI3NTU0LDExMz
-M1OTA3ODIsLTE0MzM3OTgwNzEsLTEzMTM0MzgxNjIsNDU4NDYy
-OTcyLC0xMDAzMDgwNjEyLC0zNjgxODQxMjhdfQ==
+eyJoaXN0b3J5IjpbLTEzMzE0NzI5ODYsNTI2NTk5NDU0LC01ND
+I4NDMyMTgsMTc3MTkwMzA4MSwyMDAzODY4NjUzLDEyOTE5NzMw
+MiwxODU1NjQ5ODk3LDEzMzk1NTcxNzMsMTk2NzkyNzU1NCwxMT
+MzNTkwNzgyLC0xNDMzNzk4MDcxLC0xMzEzNDM4MTYyLDQ1ODQ2
+Mjk3MiwtMTAwMzA4MDYxMiwtMzY4MTg0MTI4XX0=
 -->
