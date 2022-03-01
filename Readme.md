@@ -32,9 +32,9 @@ In the first attempts to find the optimal entry and exit thresholds there was a 
 ![Trades](img/trades.png)
 *Visualization of two months with trades based on the optimal parameters*
 
+---
 The notebook has a lot of comments to let you understnad the code and my process.
 
----
 #### Backtest and production
 Although I didn't put this model into production, ie. let it trade on the markets, it would be possible with the code I used to backtest it. You can wast the backtestreport, visualizations an code in the link below.
 Quantconnetc code and backtestreport:</br>
@@ -42,11 +42,11 @@ https://www.quantconnect.com/terminal/processCache?request=embedded_backtest_905
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDA2MzAwMzksLTE1MTE4NDkxMzcsNT
-U3Njc0NDAwLDE0NTY1Mzg1NDYsLTE0OTk1MjUyNzcsNTI2NTk5
-NDU0LC01NDI4NDMyMTgsMTc3MTkwMzA4MSwyMDAzODY4NjUzLD
-EyOTE5NzMwMiwxODU1NjQ5ODk3LDEzMzk1NTcxNzMsMTk2Nzky
-NzU1NCwxMTMzNTkwNzgyLC0xNDMzNzk4MDcxLC0xMzEzNDM4MT
-YyLDQ1ODQ2Mjk3MiwtMTAwMzA4MDYxMiwtMzY4MTg0MTI4XX0=
+eyJoaXN0b3J5IjpbLTMzODg3Njg3NywtMTUxMTg0OTEzNyw1NT
+c2NzQ0MDAsMTQ1NjUzODU0NiwtMTQ5OTUyNTI3Nyw1MjY1OTk0
+NTQsLTU0Mjg0MzIxOCwxNzcxOTAzMDgxLDIwMDM4Njg2NTMsMT
+I5MTk3MzAyLDE4NTU2NDk4OTcsMTMzOTU1NzE3MywxOTY3OTI3
+NTU0LDExMzM1OTA3ODIsLTE0MzM3OTgwNzEsLTEzMTM0MzgxNj
+IsNDU4NDYyOTcyLC0xMDAzMDgwNjEyLC0zNjgxODQxMjhdfQ==
 
 -->
