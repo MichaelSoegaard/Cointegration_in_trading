@@ -14,21 +14,22 @@ I want to investigate if using a mean-reverting strategy using cointegration can
 So far it hasn't been possible to get much edge in this strategy. That is, the different factors like Sharpe ratio and profit hasn't bee significant enough to prove that we can derive any useful information or edge in this strategy. There is however room for more investigation as it migt be possible to improve the strategy.
 
 #### Next steps
-In the first attempts to find the optimal entry and exit thresholds there was a problem with the thresholds being overfittet to the training dataset. Becasue as I testet the thresholds on our first testset (2020) the results were horrible. I investigated it and it turned out that the training set was  
+In the first attempts to find the optimal entry and exit thresholds there was a problem with the thresholds being overfittet to the training dataset. Becasue as I testet the thresholds on our first testset (2020) the results were horrible. I investigated it and it turned out that the training set was 
 
 ![Graphs](img/Github_graphs.jpg)
 
 Read more about the process in notebook
 
 Quantconnetc code and backtestreport:</br>
-https://www.quantconnect.com/terminal/processCache?request=embedded_backtest_1c93e92fbb296bfd7b1d2110077f9550.html
+https://www.quantconnect.com/terminal/processCache?request=embedded_backtest_905cedf89d97241c80b91e4301658356.html
 
 *Note: There seems to be some differences between the optimal paramters calculated and the optimal parameters for backtest. This is an issue I'm pursueing at the moment. Project will be opdated with my findings.*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTk1MjUyNzcsNTI2NTk5NDU0LC01ND
-I4NDMyMTgsMTc3MTkwMzA4MSwyMDAzODY4NjUzLDEyOTE5NzMw
-MiwxODU1NjQ5ODk3LDEzMzk1NTcxNzMsMTk2NzkyNzU1NCwxMT
-MzNTkwNzgyLC0xNDMzNzk4MDcxLC0xMzEzNDM4MTYyLDQ1ODQ2
-Mjk3MiwtMTAwMzA4MDYxMiwtMzY4MTg0MTI4XX0=
+eyJoaXN0b3J5IjpbMTQ1NjUzODU0NiwtMTQ5OTUyNTI3Nyw1Mj
+Y1OTk0NTQsLTU0Mjg0MzIxOCwxNzcxOTAzMDgxLDIwMDM4Njg2
+NTMsMTI5MTk3MzAyLDE4NTU2NDk4OTcsMTMzOTU1NzE3MywxOT
+Y3OTI3NTU0LDExMzM1OTA3ODIsLTE0MzM3OTgwNzEsLTEzMTM0
+MzgxNjIsNDU4NDYyOTcyLC0xMDAzMDgwNjEyLC0zNjgxODQxMj
+hdfQ==
 -->
