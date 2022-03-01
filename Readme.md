@@ -36,16 +36,17 @@ The notebook has a lot of comments to further elaborate on the code and my proce
 
 #### Backtest and production
 Although I didn't put this model into production, ie. let it trade on the markets, it would be possible with the code I used to backtest it. You can wast the backtestreport, visualizations an code in the link below.
+*Note: Switch between charts, 
+
 Quantconnetc code and backtestreport:</br>
 https://www.quantconnect.com/terminal/processCache?request=embedded_backtest_905cedf89d97241c80b91e4301658356.html
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4Njg0MjE2NSwtMTUxMTg0OTEzNyw1NT
-c2NzQ0MDAsMTQ1NjUzODU0NiwtMTQ5OTUyNTI3Nyw1MjY1OTk0
-NTQsLTU0Mjg0MzIxOCwxNzcxOTAzMDgxLDIwMDM4Njg2NTMsMT
-I5MTk3MzAyLDE4NTU2NDk4OTcsMTMzOTU1NzE3MywxOTY3OTI3
-NTU0LDExMzM1OTA3ODIsLTE0MzM3OTgwNzEsLTEzMTM0MzgxNj
-IsNDU4NDYyOTcyLC0xMDAzMDgwNjEyLC0zNjgxODQxMjhdfQ==
-
+eyJoaXN0b3J5IjpbNjk0NzY2MjQ2LC0xNTExODQ5MTM3LDU1Nz
+Y3NDQwMCwxNDU2NTM4NTQ2LC0xNDk5NTI1Mjc3LDUyNjU5OTQ1
+NCwtNTQyODQzMjE4LDE3NzE5MDMwODEsMjAwMzg2ODY1MywxMj
+kxOTczMDIsMTg1NTY0OTg5NywxMzM5NTU3MTczLDE5Njc5Mjc1
+NTQsMTEzMzU5MDc4MiwtMTQzMzc5ODA3MSwtMTMxMzQzODE2Mi
+w0NTg0NjI5NzIsLTEwMDMwODA2MTIsLTM2ODE4NDEyOF19
 -->
