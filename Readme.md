@@ -2,9 +2,9 @@
 <p align="center">
   <img src="img/Cointegration.png" />
 </p>
-```
-<span style="color:red">Note! Repository is being updated at the moment</span>.
-```
+
+<span style="color:red">Note! Repository is being updated at the moment</span>
+
 #### Introduction
 Cointegration spread trading is a statistical arbitrage strategy for trading financial assets. You basicially trade two cointegrated assets, that is two assets that have the same price fluctuations and long term movement. But when they once in a while move apart from each they tend to revert back to the mean at some point. It's that knowledge you can use to your advantage.
 Practically you buy one af the assets and sell the other, This way you can remove the risk of being affected by the general market movements, which is a huge advantage. 
@@ -29,10 +29,10 @@ https://www.quantconnect.com/terminal/processCache?request=embedded_backtest_905
 *Note: There seems to be some differences between the optimal paramters calculated and the optimal parameters for backtest. This is an issue I'm pursueing at the moment. Project will be opdated with my findings.*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1MDQ4ODU0Niw1NTc2NzQ0MDAsMTQ1Nj
-UzODU0NiwtMTQ5OTUyNTI3Nyw1MjY1OTk0NTQsLTU0Mjg0MzIx
-OCwxNzcxOTAzMDgxLDIwMDM4Njg2NTMsMTI5MTk3MzAyLDE4NT
-U2NDk4OTcsMTMzOTU1NzE3MywxOTY3OTI3NTU0LDExMzM1OTA3
-ODIsLTE0MzM3OTgwNzEsLTEzMTM0MzgxNjIsNDU4NDYyOTcyLC
-0xMDAzMDgwNjEyLC0zNjgxODQxMjhdfQ==
+eyJoaXN0b3J5IjpbLTIwODQ1MDU4ODQsNTU3Njc0NDAwLDE0NT
+Y1Mzg1NDYsLTE0OTk1MjUyNzcsNTI2NTk5NDU0LC01NDI4NDMy
+MTgsMTc3MTkwMzA4MSwyMDAzODY4NjUzLDEyOTE5NzMwMiwxOD
+U1NjQ5ODk3LDEzMzk1NTcxNzMsMTk2NzkyNzU1NCwxMTMzNTkw
+NzgyLC0xNDMzNzk4MDcxLC0xMzEzNDM4MTYyLDQ1ODQ2Mjk3Mi
+wtMTAwMzA4MDYxMiwtMzY4MTg0MTI4XX0=
 -->
