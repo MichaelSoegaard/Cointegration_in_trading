@@ -13,8 +13,8 @@ I want to investigate if using a mean-reverting strategy using cointegration can
 #### Conclusion
 So far it hasn't been possible to get much edge in this strategy. That is, the different factors like Sharpe ratio and profit hasn't bee significant enough to prove that we can derive any useful information or edge in this strategy. There is however room for more investigation as it migt be possible to improve the strategy.
 
-#### Next steps
-In the first attempts to find the optimal entry and exit thresholds there was a problem with the thresholds being overfittet to the training dataset. Becasue as I testet the thresholds on our first testset (2020) the results were horrible. I investigated it and it turned out that the training set didn't fully reflect the parameters of the population. The  
+#### Challenges faced
+In the first attempts to find the optimal entry and exit thresholds there was a problem with the thresholds being overfittet to the training dataset. Becasue as I testet the thresholds on our first testset (2020) the results were horrible. I investigated it and it turned out that the training set didn't fully reflect the parameters of the population. The original trainingset was on hourly data from 2016 to 2019 and it showed th
 
 ![Graphs](img/Github_graphs.jpg)
 
@@ -26,10 +26,10 @@ https://www.quantconnect.com/terminal/processCache?request=embedded_backtest_905
 *Note: There seems to be some differences between the optimal paramters calculated and the optimal parameters for backtest. This is an issue I'm pursueing at the moment. Project will be opdated with my findings.*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk0MjQxMDg3LDE0NTY1Mzg1NDYsLTE0OT
-k1MjUyNzcsNTI2NTk5NDU0LC01NDI4NDMyMTgsMTc3MTkwMzA4
-MSwyMDAzODY4NjUzLDEyOTE5NzMwMiwxODU1NjQ5ODk3LDEzMz
-k1NTcxNzMsMTk2NzkyNzU1NCwxMTMzNTkwNzgyLC0xNDMzNzk4
-MDcxLC0xMzEzNDM4MTYyLDQ1ODQ2Mjk3MiwtMTAwMzA4MDYxMi
-wtMzY4MTg0MTI4XX0=
+eyJoaXN0b3J5IjpbMTQ1MDAxOTAyMiwxNDU2NTM4NTQ2LC0xND
+k5NTI1Mjc3LDUyNjU5OTQ1NCwtNTQyODQzMjE4LDE3NzE5MDMw
+ODEsMjAwMzg2ODY1MywxMjkxOTczMDIsMTg1NTY0OTg5NywxMz
+M5NTU3MTczLDE5Njc5Mjc1NTQsMTEzMzU5MDc4MiwtMTQzMzc5
+ODA3MSwtMTMxMzQzODE2Miw0NTg0NjI5NzIsLTEwMDMwODA2MT
+IsLTM2ODE4NDEyOF19
 -->
